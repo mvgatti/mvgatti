@@ -1,6 +1,6 @@
 ### Olá, sou o desenvolvedor Marcos Vinicius Gatti 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gatti-39216a9a/)
 
 <!--
 **mvgatti/mvgatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
