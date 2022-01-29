@@ -7,7 +7,7 @@
 
 ## Tecnologias utilizadas:
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]
+(https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <!--
 **mvgatti/mvgatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
