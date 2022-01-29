@@ -3,6 +3,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gatti-39216a9a/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcosvinicius.gatti.3)
 
+![Gatti stats](https://github-readme-stats.vercel.app/api?username=mvgatti&show_icons=true&theme=radical)
+
 <!--
 **mvgatti/mvgatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
