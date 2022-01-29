@@ -1,7 +1,6 @@
-### Olá, sou o desenvolvedor Marcos Vinicius Gatti 👋
+### Olá, sou o analista de sistemas Marcos Vinicius Gatti 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gatti-39216a9a/)
-
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)
 
 <!--
